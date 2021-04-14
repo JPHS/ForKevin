@@ -1,3 +1,4 @@
+//sketch.js
 var starImg, fairyImg, bgImg;
 var fairy , fairyVoice;
 var star, starBody;
